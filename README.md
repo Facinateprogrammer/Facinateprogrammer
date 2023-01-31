@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soundarya A Balajiga</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right"alt="coding"width="400"src=[image](https://user-images.githubusercontent.com/124028704/215770808-b7e890f1-9ecc-4710-b58b-9cc35f8f4328.png)
+<img align="right"alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/124028704/215770808-b7e890f1-9ecc-4710-b58b-9cc35f8f4328.png)">
  
 - 🔭 I’m currently working on **Python**
 
