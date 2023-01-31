@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi , I'm Soundarya A BalajigaA passionate frontend developer from India
 
-<!--
-**Facinateprogrammer/Facinateprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img ailgn="right"width="400"scr="">
 
-Here are some ideas to get you started:
+ I’m currently working on Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I’m currently learning Python
+
+ I’m looking to collaborate on Data science
+
+ I’m looking for help with Programming
+
+ All of my projects are available at http://GitHub.com/Facinateprogrammer
+
+ I regularly write articles on Python
+
+ Ask me about Python
+
+ How to reach me soundaryabalajiga2004@gmail.com
+
